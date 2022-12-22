@@ -1,0 +1,14 @@
+{
+  "name": "node_project0",
+  "version": "1.0.0",
+  "description": "first project with node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lulian",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
